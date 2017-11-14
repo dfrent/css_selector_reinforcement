@@ -1,4 +1,7 @@
 
+h1 {
+    font-size: 45px;
+}
 
 p {
     color: crimson;
@@ -6,4 +9,8 @@ p {
 
 a:hover {
     color: yellow;
+}
+
+li{
+  display: inline-block;
 }
